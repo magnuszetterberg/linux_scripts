@@ -1,1 +1,3 @@
 # linux_scripts
+
+Im trying to store some of the scripts that I need to on my computer when ever i re-install my laptop for whatever reason...
